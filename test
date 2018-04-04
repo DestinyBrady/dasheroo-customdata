@@ -1,0 +1,6 @@
+fetch(url, {https://www.dasheroo.com/external/api/subscriptions/c4a28a26fc2cd5ccb4f3f8bdf2e268b3  
+    method: 'POST',  
+    value=10
+    date=2016-01-10
+    label=Customers 
+});
